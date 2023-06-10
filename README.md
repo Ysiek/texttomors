@@ -1,0 +1,1 @@
+The application is a Python-based tool that enables text-to-Morse code conversion. With a user-friendly interface, it allows users to input any text and quickly obtain its corresponding Morse code representation. The application utilizes Python's string manipulation and conversion functions to translate each character into its Morse code equivalent.
